@@ -12,7 +12,6 @@ body {
     0 2px 4px rgba(0, 0, 0, 0.24);
   padding: 1rem;
   cursor: pointer;
-  position: relative;
   margin: 1rem auto;
 }
 
@@ -28,7 +27,6 @@ body {
     0 2px 4px rgba(0, 0, 0, 0.24);
   padding: 1rem;
   cursor: pointer;
-  position: relative;
   margin: 1rem auto;
   width: 75%;
   display: flex;
@@ -69,4 +67,11 @@ body {
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+}
+
+.movie-listing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0;
 }
