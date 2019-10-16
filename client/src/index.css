@@ -68,10 +68,3 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
-
-.movie-listing {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 5px 0;
-}
